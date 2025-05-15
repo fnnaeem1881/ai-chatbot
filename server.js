@@ -10,7 +10,7 @@ app.use(express.static(__dirname));
 const DEBUG = false;
 
 // Your Groq API key in env variable
-const GROQ_API_KEY = "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";
+const GROQ_API_KEY = "YOUR_GROQ_API_KEY";
 
 const customPrompts = [
   {
